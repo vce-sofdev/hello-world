@@ -22,8 +22,6 @@ The goal for this task is to start getting familiar with using GitHub and VSCode
 * You have installed VSCode on your computer, and downloaded this assignment
 * You have written a "Hello World" in Python, and pushed it to GitHub
 
-### test
-
 ## Instructions
 
 _Detailed instructions go here_
