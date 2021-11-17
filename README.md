@@ -20,11 +20,14 @@ The goal for this task is to start getting familiar with using GitHub and VSCode
 
 * You are reading this on your own computer
 * You have installed VSCode on your computer, and downloaded this assignment
-* You have written a "Hello World" in Python, and pushed it to GitHub
+* You have written a _Hello World_ in Python, and pushed it to GitHub
 
 ## Instructions
 
 _Detailed instructions go here_
+
+1. Download and install [Visual Studio Code (VSCode)](https://code.visualstudio.com/).
+1. ß
 
 ## Marking criteria
 
