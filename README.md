@@ -44,7 +44,7 @@ The goal for this task is to start getting familiar with using GitHub and VSCode
     * press the '+' to stage the file
     * press the '✔' to commit the project
     * in the box that appears, write an appropriate message to describe your changes and press <kbd>⏎</kbd>
-    * press 'sync' to push the project
+    * press 'Sync Changes' to push the project
 
 ## Marking criteria
 
