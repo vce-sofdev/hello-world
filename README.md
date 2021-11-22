@@ -1,20 +1,22 @@
 # hello-world
 
+Welcome to your first task for VCE Software Development! 🎉
+
+Contents:
+
 1. [Assignment description](#assignment-description)
 1. [Instructions](#instructions)
 1. [Marking criteria](#marking-criteria)
 
 ## Assignment description
 
-Welcome to your first task for VCE Software Development! 🎉
-
 The goal for this task is to start getting familiar with using GitHub and VSCode. You should already be familiar with some Python, but if not, you will learn how to print messages using Python as well. 💻🐍
 
 ### 📚 Learning intentions 
 
 * Know how assignments can be accessed for class
-* Know how tasks and assignments can be submitted for class
-* Get an introduction to some professional software development tools
+* Know how assignments can be submitted for class
+* Get an introduction to professional software development tools
 
 ### 🎓 Success criteria
 
@@ -39,12 +41,12 @@ The goal for this task is to start getting familiar with using GitHub and VSCode
 
 1. If you are happy with your program, push it to GitHub:
 
-    * open the source control sidebar with <kbd>Ctrl</kbd><kbd>⇧</kbd><kbd>G</kbd>
-    * under 'Changes', you should see the file you changed
-    * press the '+' to stage the file
-    * press the '✔' to commit the project
-    * in the box that appears, write an appropriate message to describe your changes and press <kbd>⏎</kbd>
-    * press 'Sync Changes' to push the project
+    1. open the source control sidebar with <kbd>Ctrl</kbd><kbd>⇧</kbd><kbd>G</kbd>
+    1. under 'Changes', you should see the file you changed
+    1. press the `+` next to the changed file to stage it
+    1. press the `✓` above to commit the project
+    1. in the box that appears, write an appropriate message to describe your changes and press <kbd>⏎</kbd>
+    1. press 'Sync Changes' to push the project
 
 ## Marking criteria
 
